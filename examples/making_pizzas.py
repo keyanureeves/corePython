@@ -1,4 +1,4 @@
-import pizza 
+import examples.pizza as pizza 
 
 pizza.make_pizza(22, 'pepperoni')
 pizza.make_pizza(18, 'mushrooms', 'green peppers', 'extra cheese')
